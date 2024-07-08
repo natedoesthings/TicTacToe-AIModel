@@ -21,6 +21,11 @@ This is the model configured and used for the project, [Tik-Tak-AI?](https://git
   - I trained my data using the Random Forest algorithm with 100 iterations
   - Using Core ML, I was able to easily import my model into the swift application and process input to get a predicted output!
  
+# Next Steps!
 
+- IOS Core Data
+  - I want to the model to become more human as well, which will mean I will need more data from human test trials
+  - I am planning on implimenting IOS Core data to help store the data of when players go against each other
+  - Further use that data to help train my current TicTacToe-AI Model! 🖥️
 
 
