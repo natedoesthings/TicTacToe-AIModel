@@ -7,6 +7,7 @@ This is the model configured and used for the project, [Tik-Tak-AI?](https://git
   - Recursive Algorithm configured to find the best possible next move by analyzing the maximizing player (O) and the minimizing player (X).
   - After anaylsis by going through all possible combinations, returns the best move.
   - [Short YT Video!](https://www.youtube.com/watch?v=l-hh51ncgDI&t=189s&ab_channel=SebastianLague)
+  - [Article](https://mostafa-samir.github.io/Tic-Tac-Toe-AI/)
  
 - PyTorch
   - Instead of playing the game over and over, I used pytorch to create multiple datapoints of possible game scenarios.
