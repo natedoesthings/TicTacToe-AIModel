@@ -17,7 +17,10 @@ This is the model configured and used for the project, [Tik-Tak-AI?](https://git
 - Core ML and Create ML
   - Using Apple's built in software Create ML, I was able to take that csv file to use and train my model
   - For my use case, I went with a Tabular Classification since my data was based on finding the best target value based on the state of the board
-  - Ex. X,,,X,O,,,,,6
+  - Ex.
+      - ```bash
+        X,,,X,O,,,,,6
+        ```
   - This would mean that the computer would go to position 6 as that would block player X of winning
   - I trained my data using the Random Forest algorithm with 100 iterations
   - Using Core ML, I was able to easily import my model into the swift application and process input to get a predicted output!
