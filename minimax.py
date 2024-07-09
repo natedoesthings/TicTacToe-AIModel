@@ -2,6 +2,7 @@ import itertools
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset
+import copy
 
 # def check_winner(board):
 #     win_patterns = [
